@@ -1,4 +1,5 @@
 # Learning TypeScript
+<img src="https://repository-images.githubusercontent.com/625460762/d4d63934-c1f0-4a9d-a138-c647581348a9"></img>
 
 Welcome to the Learn TypeScript repository! In this repository, you will learn TypeScript step by step, covering all topics in detail. By the end of this course, you will have a solid understanding of the fundamentals of TypeScript.
 
